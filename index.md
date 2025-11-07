@@ -3,16 +3,8 @@ layout: default
 title: Finance Manager Privacy Policy
 ---
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="assets/css/style.css">
-</head>
-<body>
+<link rel="stylesheet" href="assets/css/style.css">
 
-<!-- Navigation Bar -->
 <nav class="nav-bar">
     <div class="nav-container">
         <a href="https://aethersolutionsph.github.io/finance-manager-privacy/" class="nav-brand">Finance Manager</a>
@@ -25,7 +17,7 @@ title: Finance Manager Privacy Policy
     </div>
 </nav>
 
-<div class="container">
+<div class="container" markdown="1">
 
 # Privacy Policy for Finance Manager
 
@@ -266,7 +258,7 @@ Opt out of the "sale" of personal information (we don't sell data).
 ### 9.4 Non-Discrimination
 We will not discriminate against you for exercising your privacy rights.
 
-To exercise these rights, contact us at [your-email@example.com] or use the in-app "Data Request" feature.
+To exercise these rights, contact us at aether.solutionsph@gmail.com or use the in-app "Data Request" feature.
 
 ---
 
@@ -289,7 +281,7 @@ If you are in the European Economic Area (EEA), you have rights under GDPR:
 - **Right to Withdraw Consent**: Withdraw consent at any time
 
 ### 10.3 Data Protection Officer
-For GDPR-related inquiries, contact: [dpo-email@example.com]
+For GDPR-related inquiries, contact: aether.solutionsph@gmail.com
 
 ### 10.4 Supervisory Authority
 You have the right to lodge a complaint with your local data protection authority.
@@ -340,13 +332,8 @@ In the event of a data breach affecting your personal information:
 
 If you have questions, concerns, or requests regarding this Privacy Policy:
 
-**Email**: [your-email@example.com]
+**Email**: aether.solutionsph@gmail.com
 **App Support**: Settings → Help & Support → Contact Us
-**Mailing Address**:
-[Your Company Name]
-[Street Address]
-[City, State ZIP]
-[Country]
 
 **Response Time**: We aim to respond to all inquiries within 2-3 business days.
 
@@ -393,7 +380,6 @@ We do NOT request:
 
 </div>
 
-<!-- Footer -->
 <div class="footer">
     <p><strong>Finance Manager</strong> - Complete Money Management</p>
     <p>© 2025 Aether Apps. All rights reserved.</p>
@@ -404,6 +390,3 @@ We do NOT request:
         <a href="mailto:aether.solutionsph@gmail.com">Support</a>
     </p>
 </div>
-
-</body>
-</html>
