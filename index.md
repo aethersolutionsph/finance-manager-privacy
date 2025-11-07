@@ -17,7 +17,10 @@ title: Finance Manager Privacy Policy
     </div>
 </nav>
 
-<div class="container" markdown="1">
+<div class="container">
+    <img src="GooglePlayBanner.png" alt="Finance Manager App Banner" class="banner">
+
+    <div class="content" markdown="1">
 
 # Privacy Policy for Finance Manager
 
@@ -378,6 +381,7 @@ We do NOT request:
 
 *Last reviewed: January 1, 2025*
 
+    </div>
 </div>
 
 <div class="footer">
