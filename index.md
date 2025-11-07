@@ -381,7 +381,7 @@ We do NOT request:
 
 *Last reviewed: January 1, 2025*
 
-    </div>
+</div>
 </div>
 
 <div class="footer">
